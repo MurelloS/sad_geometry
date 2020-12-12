@@ -1,0 +1,7 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Векторная алгебра}{2}{section.1}%
+\contentsline {paragraph}{Деление отрезка в заданном отношении.}{2}{section*.2}%
+\contentsline {paragraph}{Преобразование координат из полярных в декартовы.}{2}{section*.3}%
+\contentsline {paragraph}{Замена базиса}{2}{section*.4}%
+\contentsline {paragraph}{Изменение системы координат.}{2}{section*.5}%
+\contentsline {section}{\numberline {2}Исследование уравнения второго порядка}{3}{section.2}%
